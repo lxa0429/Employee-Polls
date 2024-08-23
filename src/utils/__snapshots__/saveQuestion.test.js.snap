@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`_saveQuestion should return the saved question and match thebsnapshot with all expected fields populated when correctly formatted data is passed 1`] = `
+Object {
+  "author": "sarahedo",
+  "id": "4tl36ldlbyj9lr54usiw6",
+  "optionOne": Object {
+    "text": "Option One",
+    "votes": Array [],
+  },
+  "optionTwo": Object {
+    "text": "Option Two",
+    "votes": Array [],
+  },
+  "timestamp": 1723990455549,
+}
+`;

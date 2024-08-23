@@ -1,0 +1,46 @@
+  .poll-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    display: flex;
+    align-items: center;
+    max-width: 600px;
+    margin: 10px auto; /* Center the card */
+    padding-left: 30px;
+  }
+  
+  .poll-card-content {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-left: -10px; /* Adjust this value as needed */
+  }
+  
+  .avatar {
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    margin-left: 60;
+    margin-right: 40; /* Space between image and text */
+  }
+  
+  .poll-details {
+    flex: 1;
+    padding-left: 60px; /* Adjust this value as needed */
+  }
+  
+  .poll-card h4 {
+    margin: 0;
+    font-size: 16px;
+  }
+  
+  .poll-details p {
+    margin: 5px 0;
+  }
+  
+  
+  
+  
+  
+  
